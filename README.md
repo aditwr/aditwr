@@ -2,8 +2,8 @@
 
 <h3 align="center">👋 Hi there! I'm Aditya Wahyu</h3>
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Instagram</a>
+  <a href="https://adityawahyuramadhan.github.io">Website</a> •
+  <a href="https://instagram.com/adityaa.wr">Instagram</a>
 </p>
 
 ---
