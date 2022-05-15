@@ -20,4 +20,12 @@ I'm still in my 20s, so I still need a lot to learn and experience. I aspire to 
 - 📫 Reach me: [instagram.com/adityaa.wr](https://instagram.com/adityaa.wr)
 - ⚡ Fun fact: I'am like to watch one piece
 
-
+##### I've Learn
+<ul>
+  <li>HTML, CSS</li>
+  <li>Vanilla Javascript</li>
+  <li>Bootstrap</li>
+  <li>SASS/CSS Preprocessor</li>
+  <li>Laravel</li>
+  <li>Beginner Level of UI/UX</li>
+</ul>
