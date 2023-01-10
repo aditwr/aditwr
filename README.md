@@ -7,7 +7,7 @@
 </p>
 
 ---
-✨ I'm a student of universtas sebelas maret. I am very interested in web development. now i'm learning laravel framework. Even though I'm still a beginner in this field, I'm sure I'll be able to become an expert if I keep trying.
+✨ I'm a student of universtas sebelas maret. I am very interested in web development. Even though I'm still a beginner in this field, I'm sure I'll be able to become an expert if I keep trying.
 
 I'm still in my 20s, so I still need a lot to learn and experience. I aspire to become a full-stack developer and work for a company or create my own company 
 
