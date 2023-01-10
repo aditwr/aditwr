@@ -16,16 +16,20 @@ I'm still in my 20s, so I still need a lot to learn and experience. I aspire to 
 - 😄 My Pronouns: He/His   
 - 🔭 I’m currently learning on Universitas Sebelas Maret
 - 🌱 I’m currently learning Laravel Framework
-- ⚙️ I've learn: 'html', 'css, boostrap', 'js', 'php, laravel'
+- ⚙️ I've learn: 'html', 'css, 'js', boostrap', 'tailwind css', 'scss', 'reactjs', 'MERN Stack', 'laravel'
 - 📫 Reach me: [instagram.com/adityaa.wr](https://instagram.com/adityaa.wr)
-- ⚡ Fun fact: I'am like to watch one piece
+- ⚡ Fun fact: I'am like to watch motivation video from Andrew Tate
 
 ##### I've Learn
 <ul>
   <li>HTML, CSS</li>
   <li>Vanilla Javascript</li>
   <li>Bootstrap</li>
+  <li>TailwindCSS</li>
   <li>SASS/CSS Preprocessor</li>
+  <li>UI/UX Design</li>
+  <li>ReactJs</li>
+  <li>MERN Stack : MongoDB, Express, ReactJs, NodeJs</li>
+  <li>MySQL Database</li>
   <li>Laravel</li>
-  <li>Beginner Level of UI/UX</li>
 </ul>
