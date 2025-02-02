@@ -13,7 +13,7 @@
 **Back-End:** NodeJS, ExpressJS, NextJS, Laravel  
 **Database:** MongoDB, PostgreSQL, MySQL  
 
-📫 **Reach me on:** [Instagram](https://instagram.com/adityaa.wr)  
+📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/aditwr/) | [Instagram](https://instagram.com/adityaa.wr)
 
 ---
 *"Building user-friendly and high-performance applications, one project at a time."*
